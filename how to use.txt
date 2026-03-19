@@ -1,5 +1,0 @@
-go at line 62 and replace the part "insert token here" with ur discord user token which u can get on kiwi browser android or on pc i wont put a tutorial exactly here but look it up on youtube if you do not know how
-Information about the Self Bot:
-Prefix: > (can be changed at line 63)
-Coded by EnclaveGRS/GRS Enclave
-Discord.PY Version: 1.7.3
